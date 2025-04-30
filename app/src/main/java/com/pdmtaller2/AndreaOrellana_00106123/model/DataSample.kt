@@ -103,7 +103,7 @@ object DataSample {
                     id = 10,
                     name = "Ensalada César Vegana",
                     description = "Sin lácteos y con crutones de garbanzo",
-                    imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMA_eaPLn5YVjFk6AldTt6r6f_0qtxXyRI-g&s"
+                    imageUrl = "https://mejorconsalud.as.com/wp-content/uploads/2020/09/ensalada-cesar-vegana.jpg"
                 )
             )
         )
